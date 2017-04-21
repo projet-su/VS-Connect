@@ -25,6 +25,6 @@ void pause() {
 }
 
 int main() {
-	cout << "Ligne 1";
+	cout << "Ligne 69";
 	pause();
 }
